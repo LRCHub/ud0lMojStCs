@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アイ・ニード・ユー・バック",
+  "base_artist": "藤井 風",
+  "createdAt": "2025-12-07T14:40:02.819248Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Need U Back",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_I_Need_U_Back_藤井_風.txt"
+    }
+  ]
+}
